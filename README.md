@@ -1,4 +1,4 @@
-Hi, I'm Saruta 👋
+## Hi, I'm Saruta 👋
 
 Cybersecurity master's student at Brown University and Computer Science
 graduate from King's College London.
